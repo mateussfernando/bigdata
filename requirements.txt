@@ -1,0 +1,6 @@
+requests
+pandas
+black
+prefect
+python-dotenv
+pymongo
